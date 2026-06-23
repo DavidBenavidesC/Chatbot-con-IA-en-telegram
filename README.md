@@ -29,9 +29,7 @@ A lo largo del tutorial se explica el proceso completo para desplegar un asisten
 
 ## Video tutorial
 
-Puedes seguir el proceso completo en el siguiente video:
-
-[Ver tutorial en YouTube] (https://youtu.be/RtB9URoO51w)
+https://youtu.be/RtB9URoO51w
 
 ## Objetivo
 
